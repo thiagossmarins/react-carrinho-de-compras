@@ -1,0 +1,33 @@
+.logo-button {
+    display: flex;
+    align-items: center;
+    font-size: 1.8rem;
+    padding: 5px;
+    border: none;
+    background: none;
+    cursor: pointer;
+    margin-right: 20px;
+    color: #333;
+}
+
+.logo-title {
+    font-size: 18px;
+    font-weight: 600;
+    text-transform: lowercase;
+    text-align: left;
+    line-height: 1;
+    margin-left: 10px;
+    color: #333;
+}
+
+@media screen and (max-width: 900px) {
+    .logo-title {
+        display: none;
+    }
+}
+
+@media screen and (max-width: 460px){
+    .logo-title {
+        display: none;
+    }
+}

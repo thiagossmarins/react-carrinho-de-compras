@@ -1,4 +1,4 @@
-# Carrinho de compra com React
+# Carrinho de compras com React
  
 Stacks: React
 
